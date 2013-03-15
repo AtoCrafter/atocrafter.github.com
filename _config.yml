@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : 面倒くさいもぢんぐの日々
+tagline: Minecraft に工業系 MOD を入れて遊びつつ、MOD 開発しています。
 author :
   name : Ato Crafter
   email : ato.crafter@gmail.com
