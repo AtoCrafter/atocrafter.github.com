@@ -10,6 +10,7 @@ description: "持ち運べる大容量チェストを追加します"
 
 特徴
 ----
+
 - どこからでも手に持ったままアクセスできるチェスト
 - 最大13824スタックの超巨大容量
 - 16色の色分け管理
@@ -23,6 +24,7 @@ description: "持ち運べる大容量チェストを追加します"
 
 ### **ダウンロード**
 [こちらからダウンロード][download]
+*対応バージョン : Minecraft 1.4.7*
 
 ### インストール
 ダウンロードした zip ファイルを .minecraft/mods フォルダに直接入れてください。（クライアント・サーバー共に共通）
@@ -105,7 +107,7 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 ##### Access Chest Class-3(2) : Access Chest Class-3 + エンダーチェスト(8)
 ![Access Chest Class-3](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCopy3.png)
 
-#### コンフィグ
+### コンフィグ
 - ejectStackLimit : 一括排出で排出されるスタックの限界数を決めます。大量のアイテムでプログラムが固まる、といった問題がある場合は少なくしてください。
 - rowsScroll : 1 回のホイールスクロールでどれだけページを移動させるかです。デフォルトでは 8 行（= 1 ページ）になっています。
 - enableAutoCollect : 自動収納機能を有効にするかです。デフォルトでは有効になっています。
@@ -114,5 +116,22 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 <script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm18955909?w=490&h=307"></script><noscript><a href="http://www.nicovideo.jp/watch/sm18955909">【ニコニコ動画】【Minecraft】 Access Chest 【自作MOD紹介】</a></noscript>
 
 
+サポート
+--------
+バグ、要望がありましたら[マインクラフト　非公式日本ユーザーフォーラム][forum]までご連絡ください。
+
+### 最新バージョン対応について
+この MOD は大規模とは言わずも、中規模に近い大きさになってしまったため、素早く対応するのは困難です。
+[GitHub][]にてソースコードを公開していますので、修正にご協力いただけると幸いです。
+
+### 過去のバージョン
+
+
+謝辞
+----
+テクスチャを提供して頂きました the M さん、誠にありがとうございます。
+
 
 [download]: http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/release/
+[forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
+[GitHub]: https://github.com/AtoCrafter/AccessChest
