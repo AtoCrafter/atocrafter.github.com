@@ -5,7 +5,7 @@ description: "持ち運べる大容量チェストを追加します"
 ---
 {% include JB/setup %}
 
-![Access Chest の GUI 画面サンプル](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/ss.png)
+![Access Chest の GUI 画面サンプル](img/ss.png)
 
 
 特徴
@@ -87,27 +87,27 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 
 #### Access Chest
 ##### Access Chest Class-0 : チェスト + エンダーパール
-![Access Chest Class-0](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeAccessChest0.png)
+![Access Chest Class-0](img/RecipeAccessChest0.png)
 ##### Access Chest Class-1 : Access Chest Class-0(8) + ラピスラズリブロック
-![Access Chest Class-1](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeAccessChest1.png)
+![Access Chest Class-1](img/RecipeAccessChest1.png)
 ##### Access Chest Class-2 : Access Chest Class-1(8) + 金ブロック
-![Access Chest Class-2](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeAccessChest2.png)
+![Access Chest Class-2](img/RecipeAccessChest2.png)
 ##### Access Chest Class-3 : Access Chest Class-2(8) + ダイヤモンドブロック
-![Access Chest Class-3](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeAccessChest3.png)
+![Access Chest Class-3](img/RecipeAccessChest3.png)
 
 #### Compressed Chest
 ##### Compressed Chest Class-1 : チェスト(8) + ダイヤモンド
-![Compressed Chest Class-1](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCompressedChest1.png)
+![Compressed Chest Class-1](img/RecipeCompressedChest1.png)
 ##### Compressed Chest Class-2 : Compressed Chest Class-1(8) + ダイヤモンドブロック
-![Compressed Chest Class-2](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCompressedChest2.png)
+![Compressed Chest Class-2](img/RecipeCompressedChest2.png)
 
 #### コピーレシピ
 ##### Access Chest Class-1(2) : Access Chest Class-1 + エンダーチェスト
-![Access Chest Class-1](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCopy1.png)
+![Access Chest Class-1](img/RecipeCopy1.png)
 ##### Access Chest Class-2(2) : Access Chest Class-2 + エンダーチェスト(3)
-![Access Chest Class-2](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCopy2.png)
+![Access Chest Class-2](img/RecipeCopy2.png)
 ##### Access Chest Class-3(2) : Access Chest Class-3 + エンダーチェスト(8)
-![Access Chest Class-3](http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/img/RecipeCopy3.png)
+![Access Chest Class-3](img/RecipeCopy3.png)
 
 ### コンフィグ
 
@@ -137,6 +137,6 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。
 
 
-[download]: http://dl.dropbox.com/u/77191991/MinecraftModding/AccessChest/release/
+[download]: release/
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/AccessChest
