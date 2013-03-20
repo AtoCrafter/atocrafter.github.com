@@ -3,6 +3,7 @@ layout: page
 title: "Access Chest"
 description: "持ち運べる大容量チェストを追加します"
 ---
+
 {% include JB/setup %}
 
 ![Access Chest の GUI 画面サンプル](img/ss.png)
@@ -19,20 +20,26 @@ description: "持ち運べる大容量チェストを追加します"
 
 導入方法
 --------
+
 ### 前提 MOD
+
 - Minecraft Forge
 
 ### **ダウンロード**
+
 [こちらからダウンロード][download]
 *対応バージョン : Minecraft 1.4.7*
 
 [ソースコード][GitHub]
 
 ### インストール
+
 ダウンロードした zip ファイルを .minecraft/mods フォルダに直接入れてください。（クライアント・サーバー共に共通）
+
 
 使い方
 ------
+
 アイテムを持って右クリックをすると各色に応じたチェストを開くことができます。
 
 Access Chest Class-1 は Class-0 の 8 倍の容量を、Class-2 は Class-1 の 8 倍の容量を……という具合に Class によって最大容量が異なります。
@@ -47,18 +54,23 @@ Access Chest とほぼ同じ機能を持ち、持ち運べないなどのいく�
 こちらはレシピにエンダーパールを使いません。
 
 ### 各種機能
+
 #### フィルタ
+
 Access Chest を開いたとき右下のテキストボックスに文字列を入力するとアイテム名にその文字列を含むアイテムがリストアップされます。
 文字列の入力を始めるにはチャットキー（デフォルトでは T）を押すかテキストボックス内をクリックします。
 テキストボックス内の文字列は Clear ボタンで空にできます。
 
 #### ネーミング \(Rename\)
+
 現在の色の Access Chest に名前をつけることができます。Rename ボタンを押したときのテキストボックスに入力されている文字列によって Access Chest のアイテム名が変化します。
 
 #### ソート \(Sort\)
+
 Sort ボタンで ID 順に並べ替えます。
 
 #### カスタムソート \(数字 + Sort\)
+
 通常のソートはID順に並べられますが、自分で好きに優先順位をつけられます。
 
 数字キーを押しながら Sort ボタンをクリックすると、フィルターによって現在表示中のアイテム全てに押した数字キーに対応する優先順位をつけます。
@@ -68,9 +80,11 @@ Sort ボタンで ID 順に並べ替えます。
 フィルターに`"pri:"+数字`を入力するとその優先順位がついたアイテムが検索されます。
 
 #### 一括収納 \(Store（Shift キーで表示）\)
+
 StoreInv ボタンで手持ち欄以外のインベントリ内のアイテムを、StoreEqp ボタンで手持ち欄のアイテムを全てチェストに収納します。
 
 #### 一括排出 \(Eject（Shift キーで表示）\)
+
 Eject ボタンで表示されているチェスト内の全てのアイテムをドロップします。
 フィルタも有効です。
 
@@ -78,6 +92,7 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 この量はコンフィグで設定可能です。デフォルトでは 96 スタック（1 画面分）となっています。
 
 #### 自動収納
+
 アイテムを拾おうとしたとき、インベントリ内に Access Chest
 を持っていれば、インベントリ内が一杯でも Access Chest 内に直接収納できます。
 
@@ -86,27 +101,45 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 ### レシピ
 
 #### Access Chest
+
 ##### Access Chest Class-0 : チェスト + エンダーパール
+
 ![Access Chest Class-0](img/RecipeAccessChest0.png)
+
 ##### Access Chest Class-1 : Access Chest Class-0(8) + ラピスラズリブロック
+
 ![Access Chest Class-1](img/RecipeAccessChest1.png)
+
 ##### Access Chest Class-2 : Access Chest Class-1(8) + 金ブロック
+
 ![Access Chest Class-2](img/RecipeAccessChest2.png)
+
 ##### Access Chest Class-3 : Access Chest Class-2(8) + ダイヤモンドブロック
+
 ![Access Chest Class-3](img/RecipeAccessChest3.png)
 
 #### Compressed Chest
+
 ##### Compressed Chest Class-1 : チェスト(8) + ダイヤモンド
+
 ![Compressed Chest Class-1](img/RecipeCompressedChest1.png)
+
 ##### Compressed Chest Class-2 : Compressed Chest Class-1(8) + ダイヤモンドブロック
+
 ![Compressed Chest Class-2](img/RecipeCompressedChest2.png)
 
 #### コピーレシピ
+
 ##### Access Chest Class-1(2) : Access Chest Class-1 + エンダーチェスト
+
 ![Access Chest Class-1](img/RecipeCopy1.png)
+
 ##### Access Chest Class-2(2) : Access Chest Class-2 + エンダーチェスト(3)
+
 ![Access Chest Class-2](img/RecipeCopy2.png)
+
 ##### Access Chest Class-3(2) : Access Chest Class-3 + エンダーチェスト(8)
+
 ![Access Chest Class-3](img/RecipeCopy3.png)
 
 ### コンフィグ
