@@ -150,7 +150,7 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 
 ### 紹介動画
 
-<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm18955909?w=490&h=307"></script><noscript><a href="http://www.nicovideo.jp/watch/sm18955909">【ニコニコ動画】【Minecraft】 Access Chest 【自作MOD紹介】</a></noscript>
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm18955909)
 
 
 サポート
