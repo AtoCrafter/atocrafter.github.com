@@ -7,5 +7,5 @@ description: ""
 
 自作 MOD 紹介ページ一覧
 -----------------------
-- [Access Chest](./AccessChest/)
-- [Sleepy Night](./SleepyNight/)
+- [Access Chest](./AccessChest/) --- 持ち運べる大容量チェスト
+- [Sleepy Night](./SleepyNight/) --- 自動で就寝
