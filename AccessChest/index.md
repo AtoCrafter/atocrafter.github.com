@@ -130,11 +130,13 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 
 #### コピーレシピ
 
-##### Access Chest Class-1(2) : Access Chest Class-1 + エンダーチェスト
+コピー後の Access Chest は Class を上げるためのレシピには使用できなくなりますが、その他の機能は同じです。
+
+##### Access Chest Class-1 Copy (2) : Access Chest Class-1 + エンダーチェスト
 
 ![Access Chest Class-1](img/RecipeCopy1.png)
 
-##### Access Chest Class-2(2) : Access Chest Class-2 + エンダーチェスト(3)
+##### Access Chest Class-2 Copy (2) : Access Chest Class-2 + エンダーチェスト(3)
 
 ![Access Chest Class-2](img/RecipeCopy2.png)
 
@@ -176,6 +178,6 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。
 
 
-[download]: release/AccessChest.2.2.0.Universal.forMC1.4.7.zip
+[download]: release/AccessChest.2.2.1.Universal.forMC1.4.7.zip
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/AccessChest
