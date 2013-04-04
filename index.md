@@ -11,3 +11,4 @@ description: ""
 - [Access Chest](./AccessChest/) --- 持ち運べる大容量チェスト
 - [Sleepy Night](./SleepyNight/) --- 自動で就寝
 - [Quick Measure](./QuickMeasure/) --- ブロックのカウント補助
+- [Marker Installer](./MarkerInstaller/) --- 立方体の頂点にブロックを設置
