@@ -10,12 +10,12 @@ description: "赤石配線不要の光源を追加します"
 特徴
 ----
 
-- 修飾に便利な光源ブロックを追加
-- ON/OFF の切り替え
-- 赤石入力が不要
-- 透明化
-- Red Power2 のような見た目
-- 薄い板状
+* 修飾に便利な光源ブロックを追加
+* ON/OFF の切り替え
+* 赤石入力が不要
+* 透明化
+* Red Power2 のような見た目
+* 薄い板状
 
 
 導入方法
@@ -23,7 +23,7 @@ description: "赤石配線不要の光源を追加します"
 
 ### 前提 MOD
 
-- Minecraft Forge
+* Minecraft Forge
 
 ### **ダウンロード**
 
@@ -72,5 +72,5 @@ description: "赤石配線不要の光源を追加します"
 
 
 [download]: release/
-[betadownload]: beta/WirelessLight.beta.Universal.forMC1.4.7.zip
+[betadownload]: release/WirelessLight.beta.Universal.forMC1.4.7.zip
 [GitHub]: https://github.com/AtoCrafter/WirelessLight
