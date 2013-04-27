@@ -70,6 +70,10 @@ description: "赤石配線不要の光源を追加します"
 
 ![Wireless Light Transparentizer](img/RecipeTransparentizer.png)
 
+### 紹介動画
+
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm20711306)
+
 
 [download]: release/WirelessLight.1.1.0.Universal.forMC1.4.7.zip
 [betadownload]: release/WirelessLight.beta.Universal.forMC1.4.7.zip
