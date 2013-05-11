@@ -181,7 +181,7 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。
 
 
-[download]: release/AccessChest.2.2.4.Universal.forMC1.4.7.zip
+[download]: release/AccessChest.2.2.5.Universal.forMC1.4.7.zip
 [betadownload]: beta/AccessChest.beta.Universal.forMC1.5.2.zip
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/AccessChest
