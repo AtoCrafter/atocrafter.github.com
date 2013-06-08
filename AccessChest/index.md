@@ -60,9 +60,10 @@ Access Chest とほぼ同じ機能を持ち、持ち運べないなどのいく�
 
 #### フィルタ
 
-Access Chest を開いたとき右下のテキストボックスに文字列を入力するとアイテム名にその文字列を含むアイテムがリストアップされます。
-文字列の入力を始めるにはチャットキー（デフォルトでは T）を押すかテキストボックス内をクリックします。
+Access Chest を開いたとき右下のテキストボックスに文字列を入力するとアイテム名にその文字列を含むアイテムがリストアップされます。アイテム ID, ダメージ値でも検索出来ます。
+文字列の入力を始めるにはチャットキー（デフォルトでは T）やコマンドキー（デフォルトでは /）を押すかテキストボックス内をクリックします。
 テキストボックス内の文字列は Clear ボタンで空にできます。
+テキストボックス内でエンターキーを押すとその時点での文字列で厳密に一致する検索も可能です。これは"stone"で Stone Brick などの余計な候補が出てくる場合に"Stone(Enter キー)"で Stone のみを表示させるなどに使います。
 
 #### ネーミング \(Rename\)
 
@@ -181,7 +182,7 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。
 
 
-[download]: release/AccessChest.2.2.5.Universal.forMC1.4.7.zip
+[download]: release/AccessChest.2.2.6.Universal.forMC1.4.7.zip
 [betadownload]: beta/AccessChest.beta.Universal.forMC1.5.2.zip
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/AccessChest
