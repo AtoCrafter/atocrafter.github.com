@@ -28,9 +28,6 @@ description: "持ち運べる大容量チェストを追加します"
 ### **ダウンロード**
 
 [こちらからダウンロード][download]
-*対応バージョン : Minecraft 1.4.7*
-
-[ベータ版ダウンロード][betadownload]
 *対応バージョン : Minecraft 1.5.2*
 
 [ソースコード][GitHub]
@@ -168,6 +165,10 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 この MOD は大規模とは言わずも、中規模に近い大きさになってしまったため、素早く対応するのは困難です。
 [GitHub][]にてソースコードを公開していますので、修正にご協力いただけると幸いです。
 
+### 既知の不具合
+
+- ネーミング機能が動作しない
+
 ### 変更履歴
 
 [こちらから](https://github.com/AtoCrafter/AccessChest/blob/master/ChangeLog.txt)
@@ -176,13 +177,13 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 
 - [1.1.0 \(for Minecraft 1.2.5\)](release/AccessChest.1.1.0.zip)
 - [2.1.1 \(for Minecraft 1.3.2\)](release/AccessChest.2.1.1.Universal.forMC1.3.2.zip)
+- [2.2.6 \(for Minecraft 1.4.7\)](release/AccessChest.2.2.6.Universal.forMC1.4.7.zip)
 
 謝辞
 ----
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。
 
 
-[download]: release/AccessChest.2.2.6.Universal.forMC1.4.7.zip
-[betadownload]: beta/AccessChest.beta.Universal.forMC1.5.2.zip
+[download]: release/AccessChest.2.3.0.Universal.forMC1.5.2.zip
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/AccessChest
