@@ -20,8 +20,9 @@ description: "目印となるブロックを簡単に設置できるように"
 
 ### **ダウンロード**
 
-[こちらからダウンロード][download]
-*対応バージョン : Minecraft 1.4.7*
+[通常版ダウンロード][release_download] (通常はこちら)
+
+[開発版ダウンロード][dev_download]
 
 [ソースコード][GitHub]
 
@@ -44,5 +45,20 @@ GUI の数値は Save ボタンを押すことで記憶しておくこともで�
 ![MarkerInstaller](img/RecipeMarkerInstaller.png)
 
 
-[download]: release/MarkerInstaller.1.0.0.Universal.forMC1.4.7.zip
+サポート
+--------
+バグ、要望がありましたら[マインクラフト　非公式日本ユーザーフォーラム][forum]までご連絡ください。
+
+### 変更履歴
+
+[こちらから](https://github.com/AtoCrafter/MarkerInstaller/blob/master/ChangeLog.txt)
+
+### 過去のバージョン
+
+- [1.0.0 \(for Minecraft 1.4.7\)](release/MarkerInstaller.1.0.0.Universal.forMC1.4.7.zip)
+
+
+[release_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/MarkerInstaller/release
+[dev_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/MarkerInstaller/dev
+[forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/MarkerInstaller
