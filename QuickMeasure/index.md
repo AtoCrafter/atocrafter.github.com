@@ -54,7 +54,7 @@ description: "ブロックのカウントを楽にする"
 - [1.1.0 \(for Minecraft 1.4.7\)](release/QuickMeasure.1.1.0.Universal.forMC1.4.7.zip)
 
 
-[release_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/QuickMeasure/release
-[dev_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/QuickMeasure/dev
+[release_download]: https://copy.com/bquCwEH7KrtX
+[dev_download]: https://copy.com/sOsfWpLI7bgU
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/QuickMeasure

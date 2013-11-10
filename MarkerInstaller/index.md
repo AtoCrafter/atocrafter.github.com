@@ -58,7 +58,7 @@ GUI の数値は Save ボタンを押すことで記憶しておくこともで�
 - [1.0.0 \(for Minecraft 1.4.7\)](release/MarkerInstaller.1.0.0.Universal.forMC1.4.7.zip)
 
 
-[release_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/MarkerInstaller/release
-[dev_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/MarkerInstaller/dev
+[release_download]: https://copy.com/hlvkYZUU4bwC
+[dev_download]: https://copy.com/bhK7HFeypFaK
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/MarkerInstaller

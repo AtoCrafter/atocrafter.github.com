@@ -89,7 +89,7 @@ description: "赤石配線不要の光源を追加します"
 - [1.1.0 \(for Minecraft 1.4.7\)](release/WirelessLight.1.1.0.Universal.forMC1.4.7.zip)
 
 
-[release_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/WirelessLight/release
-[dev_download]: https://www.copy.com/s/4oKUpWgkUfRf/mods/WirelessLight/dev
+[release_download]: https://copy.com/vWmwThJO2tWW
+[dev_download]: https://copy.com/YEi6EUK8Ak2q
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/WirelessLight
