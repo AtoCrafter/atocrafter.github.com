@@ -15,6 +15,12 @@ description: ""
 - [Marker Installer](./MarkerInstaller/) --- 立方体の頂点にブロックを設置
 
 
+その他
+------
+
+- [IC2 Crop Calculator](./ic2cropcalculator/) -- IC2 農業の交配の突然変異確立の計算機
+
+
 サポート
 --------
 
