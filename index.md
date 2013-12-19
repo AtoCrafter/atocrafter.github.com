@@ -13,6 +13,7 @@ description: ""
 - [Sleepy Night](./SleepyNight/) --- 自動で就寝
 - [Quick Measure](./QuickMeasure/) --- ブロックのカウント補助
 - [Marker Installer](./MarkerInstaller/) --- 立方体の頂点にブロックを設置
+- [一日三食！ 腹減り MOD](./ThreeMeals/) --- より、おなかがすくようになる
 
 
 その他
