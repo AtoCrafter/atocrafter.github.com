@@ -23,8 +23,6 @@ description: "Mr. Minecraft が夜になるとベッドで寝ます"
 
 [通常版ダウンロード][release_download] (通常はこちら)
 
-[開発版ダウンロード][dev_download]
-
 [ソースコード][GitHub]
 
 ### インストール
@@ -39,14 +37,14 @@ description: "Mr. Minecraft が夜になるとベッドで寝ます"
 
 ### 変更履歴
 
-[こちらから](https://github.com/AtoCrafter/SleepyNight/blob/master/ChangeLog.txt)
+[こちらから](https://github.com/AtoCrafter/SleepyNight/blob/master/ChangeLog.md)
 
 ### 過去のバージョン
 
 - [1.1.1 \(for Minecraft 1.4.7\)](release/SleepyNight.1.1.1.Universal.forMC1.4.7.zip)
+- [1.2.0 \(for Minecraft 1.6.2\)](https://copy.com/JVlQJSrQXGGN)
 
 
-[release_download]: https://copy.com/JVlQJSrQXGGN
-[dev_download]: https://copy.com/rIKvsBhPCaCz
+[release_download]: https://drone.io/github.com/AtoCrafter/SleepyNight/files
 [forum]: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=4123
 [GitHub]: https://github.com/AtoCrafter/SleepyNight
